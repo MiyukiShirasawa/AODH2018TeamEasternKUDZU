@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lang-1</key>
+	<dict>
+		<key>name</key>
+		<string>日本語</string>
+		<key>image-path</key>
+		<string>japan.jpg</string>
+		<key>id</key>
+		<string>lang-1</string>
+	</dict>
+	<key>lang-2</key>
+	<dict>
+		<key>name</key>
+		<string>Français</string>
+		<key>image-path</key>
+		<string>france.jpg</string>
+		<key>id</key>
+		<string>lang-2</string>
+	</dict>
+	<key>lang-3</key>
+	<dict>
+		<key>name</key>
+		<string>Italien</string>
+		<key>image-path</key>
+		<string>italy.jpg</string>
+		<key>id</key>
+		<string>lang-3</string>
+	</dict>
+	<key>lang-4</key>
+	<dict>
+		<key>name</key>
+		<string>한국</string>
+		<key>image-path</key>
+		<string>korea.jpg</string>
+		<key>id</key>
+		<string>lang-4</string>
+	</dict>
+	<key>lang-5</key>
+	<dict>
+		<key>name</key>
+		<string>Español</string>
+		<key>image-path</key>
+		<string>spain.jpg</string>
+		<key>id</key>
+		<string>lang-5</string>
+	</dict>
+	<key>lang-6</key>
+	<dict>
+		<key>name</key>
+		<string>English</string>
+		<key>image-path</key>
+		<string>uk2.jpg</string>
+		<key>id</key>
+		<string>lang-6</string>
+	</dict>
+</dict>
+</plist>
